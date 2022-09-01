@@ -12,6 +12,7 @@ Instructions and documentation for the tool are included within the notebook. Se
 Follow the instructions at https://jupyter.org/install to install Jupyter Notebook if you don't have it already.
 
 To run the notebook:
+
     $ jupyter notebook BIF-PythonJupyterNotebookUserTools.ipynb
 
 ### Authors
